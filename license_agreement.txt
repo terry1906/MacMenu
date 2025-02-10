@@ -45,4 +45,6 @@
 
 Пользователь: [ваше имя или название вашей организации]
 
+We forbid using our code for your own projects.
+
 Дата: [дата подписания]
